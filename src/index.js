@@ -29,8 +29,7 @@ function displayQuotes(data) {
     const likesBtn = li.querySelector(".btn-success");
     likesBtn.addEventListener("click", () => {
       const likes = parseInt(likesBtn.querySelector("span").textContent);
-      const newLikes = likes + 1;
-      likesBtn.querySelector("span").textContent = newLikes;
+      likesBtn.querySelector("span").textContent = likes + 1;
       console.log(likes);
       fetch(`http://localhost:3000/likes`, {
         method: "POST",

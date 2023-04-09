@@ -1,11 +1,6 @@
 {
   "quotes": [
     {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
       "id": 3,
       "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
       "author": "Alok Vaid Menon"
@@ -19,11 +14,6 @@
       "id": 5,
       "quote": "We had better not enjoy the moment, but create the moment.",
       "author": "Ai Weiwei"
-    },
-    {
-      "id": 7,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
     },
     {
       "id": 8,
@@ -44,6 +34,11 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Cows are milk",
+      "author": "Volatyl",
+      "id": 12
     }
   ],
   "likes": [
@@ -53,44 +48,8 @@
       "createdAt": 1558524358
     },
     {
-      "quoteId": 2,
-      "id": 3
-    },
-    {
-      "quoteId": 2,
-      "id": 4
-    },
-    {
-      "quoteId": 2,
-      "id": 5
-    },
-    {
-      "quoteId": 2,
-      "id": 6
-    },
-    {
       "quoteId": 5,
       "id": 7
-    },
-    {
-      "quoteId": 2,
-      "id": 8
-    },
-    {
-      "quoteId": 2,
-      "id": 9
-    },
-    {
-      "quoteId": 2,
-      "id": 10
-    },
-    {
-      "quoteId": 2,
-      "id": 11
-    },
-    {
-      "quoteId": 2,
-      "id": 12
     },
     {
       "quoteId": 3,
@@ -107,22 +66,6 @@
     {
       "quoteId": 5,
       "id": 16
-    },
-    {
-      "quoteId": 2,
-      "id": 17
-    },
-    {
-      "quoteId": 2,
-      "id": 18
-    },
-    {
-      "quoteId": 2,
-      "id": 19
-    },
-    {
-      "quoteId": 2,
-      "id": 20
     },
     {
       "quoteId": 3,
@@ -147,6 +90,30 @@
     {
       "quoteId": 11,
       "id": 27
+    },
+    {
+      "quoteId": 3,
+      "id": 28
+    },
+    {
+      "quoteId": 4,
+      "id": 29
+    },
+    {
+      "quoteId": 3,
+      "id": 30
+    },
+    {
+      "quoteId": 3,
+      "id": 31
+    },
+    {
+      "quoteId": 4,
+      "id": 32
+    },
+    {
+      "quoteId": 4,
+      "id": 33
     }
   ]
 }
